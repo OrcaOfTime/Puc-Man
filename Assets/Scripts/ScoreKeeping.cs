@@ -2,17 +2,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class NewBehaviourScript : MonoBehaviour
+public class ScoreKeeping : MonoBehaviour
 {
-    public int totalDots = 0;
-    public int totalPowerDots = 0;
-    public int score = 0;
+    [HideInInspector] public int totalDots, totalPowerDots, score = 0;
+    
+    public Text displayedScore;
     
     void Start()
     {
         totalDots = GameObject.FindGameObjectsWithTag("Dot").Length;
         totalPowerDots = GameObject.FindGameObjectsWithTag("PowerDot").Length;
+
+        displayedScore.text = "Score: " + score;
     }
 
    
@@ -32,13 +35,23 @@ public class NewBehaviourScript : MonoBehaviour
         throw new NotImplementedException();
     }
 
+    void addPoints(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Dot"))
+            score += 10;
+        else if (other.gameObject.CompareTag("PowerDot"))
+            score += 20;
+
+        displayedScore.text = "Score: " + score;
+    }
+
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Dot"))
         {
             Destroy(other.gameObject);
             totalDots--;
-            //AddPoints
+            addPoints(other);
             //PlayEating noise            
         }
 
@@ -46,7 +59,7 @@ public class NewBehaviourScript : MonoBehaviour
         {
             Destroy(other.gameObject);
             totalPowerDots--;
-            //Addpoints
+            addPoints(other);
             //PowerUpPacMan
             //Playeating noise
             //Play PowerUp Noise         

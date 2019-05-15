@@ -1,0 +1,4406 @@
+fileFormatVersion: 2
+guid: a5a920f94e06bd744885120653e34a9b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pac-man-sprites_0
+    21300002: pac-man-sprites_1
+    21300004: pac-man-sprites_2
+    21300006: pac-man-sprites_3
+    21300008: pac-man-sprites_4
+    21300010: pac-man-sprites_5
+    21300012: pac-man-sprites_6
+    21300014: pac-man-sprites_7
+    21300016: pac-man-sprites_8
+    21300018: pac-man-sprites_9
+    21300020: pac-man-sprites_10
+    21300022: pac-man-sprites_11
+    21300024: pac-man-sprites_12
+    21300026: pac-man-sprites_13
+    21300028: pac-man-sprites_14
+    21300030: pac-man-sprites_15
+    21300032: pac-man-sprites_16
+    21300034: pac-man-sprites_17
+    21300036: pac-man-sprites_18
+    21300038: pac-man-sprites_19
+    21300040: pac-man-sprites_20
+    21300042: pac-man-sprites_21
+    21300044: pac-man-sprites_22
+    21300046: pac-man-sprites_23
+    21300048: pac-man-sprites_24
+    21300050: pac-man-sprites_25
+    21300052: pac-man-sprites_26
+    21300054: pac-man-sprites_27
+    21300056: pac-man-sprites_28
+    21300058: pac-man-sprites_29
+    21300060: pac-man-sprites_30
+    21300062: pac-man-sprites_31
+    21300064: pac-man-sprites_32
+    21300066: pac-man-sprites_33
+    21300068: pac-man-sprites_34
+    21300070: pac-man-sprites_35
+    21300072: pac-man-sprites_36
+    21300074: pac-man-sprites_37
+    21300076: pac-man-sprites_38
+    21300078: pac-man-sprites_39
+    21300080: pac-man-sprites_40
+    21300082: pac-man-sprites_41
+    21300084: pac-man-sprites_42
+    21300086: pac-man-sprites_43
+    21300088: pac-man-sprites_44
+    21300090: pac-man-sprites_45
+    21300092: pac-man-sprites_46
+    21300094: pac-man-sprites_47
+    21300096: pac-man-sprites_48
+    21300098: pac-man-sprites_49
+    21300100: pac-man-sprites_50
+    21300102: pac-man-sprites_51
+    21300104: pac-man-sprites_52
+    21300106: pac-man-sprites_53
+    21300108: pac-man-sprites_54
+    21300110: pac-man-sprites_55
+    21300112: pac-man-sprites_56
+    21300114: pac-man-sprites_57
+    21300116: pac-man-sprites_58
+    21300118: pac-man-sprites_59
+    21300120: pac-man-sprites_60
+    21300122: pac-man-sprites_61
+    21300124: pac-man-sprites_62
+    21300126: pac-man-sprites_63
+    21300128: pac-man-sprites_64
+    21300130: pac-man-sprites_65
+    21300132: pac-man-sprites_66
+    21300134: pac-man-sprites_67
+    21300136: pac-man-sprites_68
+    21300138: pac-man-sprites_69
+    21300140: pac-man-sprites_70
+    21300142: pac-man-sprites_71
+    21300144: pac-man-sprites_72
+    21300146: pac-man-sprites_73
+    21300148: pac-man-sprites_74
+    21300150: pac-man-sprites_75
+    21300152: pac-man-sprites_76
+    21300154: pac-man-sprites_77
+    21300156: pac-man-sprites_78
+    21300158: pac-man-sprites_79
+    21300160: pac-man-sprites_80
+    21300162: pac-man-sprites_81
+    21300164: pac-man-sprites_82
+    21300166: pac-man-sprites_83
+    21300168: pac-man-sprites_84
+    21300170: pac-man-sprites_85
+    21300172: pac-man-sprites_86
+    21300174: pac-man-sprites_87
+    21300176: pac-man-sprites_88
+    21300178: pac-man-sprites_90
+    21300180: pac-man-sprites_91
+    21300182: pac-man-sprites_92
+    21300184: pac-man-sprites_93
+    21300186: pac-man-sprites_94
+    21300188: pac-man-sprites_95
+    21300190: pac-man-sprites_96
+    21300192: pac-man-sprites_97
+    21300194: pac-man-sprites_98
+    21300196: pac-man-sprites_99
+    21300198: pac-man-sprites_100
+    21300200: pac-man-sprites_101
+    21300202: pac-man-sprites_102
+    21300204: pac-man-sprites_103
+    21300206: pac-man-sprites_104
+    21300208: pac-man-sprites_105
+    21300210: pac-man-sprites_106
+    21300212: pac-man-sprites_107
+    21300214: pac-man-sprites_109
+    21300216: pac-man-sprites_110
+    21300218: pac-man-sprites_111
+    21300220: pac-man-sprites_112
+    21300222: pac-man-sprites_113
+    21300224: pac-man-sprites_114
+    21300226: pac-man-sprites_115
+    21300228: pac-man-sprites_116
+    21300230: pac-man-sprites_117
+    21300232: pac-man-sprites_118
+    21300234: pac-man-sprites_119
+    21300236: pac-man-sprites_120
+    21300238: pac-man-sprites_121
+    21300240: pac-man-sprites_122
+    21300242: pac-man-sprites_123
+    21300244: pac-man-sprites_124
+    21300246: pac-man-sprites_125
+    21300248: pac-man-sprites_126
+    21300250: pac-man-sprites_128
+    21300252: pac-man-sprites_129
+    21300254: pac-man-sprites_130
+    21300256: pac-man-sprites_131
+    21300258: pac-man-sprites_132
+    21300260: pac-man-sprites_133
+    21300262: pac-man-sprites_134
+    21300264: pac-man-sprites_135
+    21300266: pac-man-sprites_136
+    21300268: pac-man-sprites_137
+    21300270: pac-man-sprites_138
+    21300272: pac-man-sprites_139
+    21300274: pac-man-sprites_141
+    21300276: pac-man-sprites_142
+    21300278: pac-man-sprites_143
+    21300280: pac-man-sprites_144
+    21300282: pac-man-sprites_145
+    21300284: pac-man-sprites_146
+    21300286: pac-man-sprites_147
+    21300288: pac-man-sprites_148
+    21300290: pac-man-sprites_149
+    21300292: pac-man-sprites_150
+    21300294: pac-man-sprites_151
+    21300296: pac-man-sprites_152
+    21300298: pac-man-sprites_153
+    21300300: pac-man-sprites_154
+    21300302: pac-man-sprites_155
+    21300304: pac-man-sprites_156
+    21300306: pac-man-sprites_157
+    21300308: pac-man-sprites_158
+    21300310: pac-man-sprites_159
+    21300312: pac-man-sprites_160
+    21300314: pac-man-sprites_161
+    21300316: pac-man-sprites_162
+    21300318: pac-man-sprites_163
+    21300320: pac-man-sprites_164
+    21300322: pac-man-sprites_165
+    21300324: pac-man-sprites_166
+    21300326: pac-man-sprites_167
+    21300328: pac-man-sprites_168
+    21300330: pac-man-sprites_169
+    21300332: pac-man-sprites_170
+    21300334: pac-man-sprites_171
+    21300336: pac-man-sprites_172
+    21300338: pac-man-sprites_173
+    21300340: pac-man-sprites_174
+    21300342: pac-man-sprites_175
+    21300344: pac-man-sprites_176
+    21300346: pac-man-sprites_177
+    21300348: pac-man-sprites_178
+    21300350: pac-man-sprites_179
+    21300352: pac-man-sprites_180
+    21300354: pac-man-sprites_181
+    21300356: pac-man-sprites_182
+    21300358: pac-man-sprites_183
+    21300360: pac-man-sprites_184
+    21300362: pac-man-sprites_185
+    21300364: pac-man-sprites_186
+    21300366: pac-man-sprites_187
+    21300368: pac-man-sprites_188
+    21300370: pac-man-sprites_189
+    21300372: pac-man-sprites_190
+    21300374: pac-man-sprites_191
+    21300376: pac-man-sprites_192
+    21300378: pac-man-sprites_193
+    21300380: pac-man-sprites_194
+    21300382: pac-man-sprites_195
+    21300384: pac-man-sprites_196
+    21300386: pac-man-sprites_197
+    21300388: pac-man-sprites_198
+    21300390: pac-man-sprites_199
+    21300392: pac-man-sprites_200
+    21300394: pac-man-sprites_201
+    21300396: pac-man-sprites_202
+    21300398: pac-man-sprites_203
+    21300400: pac-man-sprites_204
+    21300402: pac-man-sprites_205
+    21300404: pac-man-sprites_206
+    21300406: pac-man-sprites_207
+    21300408: pac-man-sprites_208
+    21300410: pac-man-sprites_89
+    21300412: pac-man-sprites_108
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pac-man-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12c242e8423484dbe6f114fc356427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd77eab8420784d498a1661e0eb773c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5682c4c7816a4e458c393dd60c2c2fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3145101b7a7442b91efc758126edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 844
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924172170c4ab84f87b8711337db6a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c11df9dc41db3419065ecd436eb15b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 843
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7c27542d5fb84eab951c88eaac8e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22fe9f89aebf5a42aab5ceab5d313bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 842
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec205a70870160468f8ded9da6031fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 844
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e41bfb6d8325424da223cfd10474bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df903b844839be04f92092f759d981d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d996f27e333a4d80bc6d32434f40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d6863fdde03d4495f18e767b44f4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 844
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f268d7e7ecb74b970f7ce9651333d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 841
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098d59a3c8722a4a968097e92fa00fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 841
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c83d935afdc1740886689d97414cf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5331f78340baa429af2833d586b9d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550be1d9500f0814d87a8a57416edd91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b273f89f929c7824c9479f42ab188405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debecbf6c08138d4b9a61c4e4f068386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 797
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcff99f5d71a034593bd968749a0d06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ecb03777d77584e91a0477c1c169ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 796
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87f579188f92843bca590a67fba92a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212c68c8ec4b8c48a9f5fd4b3e2adde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 797
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f735707f4bc643bd409aeaefa1759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 797
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4079d333122fbbd4a9c72636a95a67c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf5c4b6aa574084a979f669e9c5bde5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26579d2e0368954ebe9033e48543317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727280fa43f607348832529723666c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 797
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816b65a7b208b347a3ed4a778a9efb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 794
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c8e06c4f49f84419e9188791954d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 794
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5263c204a885aff4b958f2796bfdec04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba031572b4fab4f4998d0c63f29e2bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86de96723730c4d9b4475e79278985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99508faba4ec3a14d8ba710d3b2acc99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd24212c032f6445a22f838238161b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 750
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0166eabfd4c5f224081486a6b8276a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ca13ac534fc848803d0270e80852a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 748
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6106561f68ae43a53cc54edb78e54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 750
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f69439e630294693c603865aac56e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 750
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b7c0b62bb0914c941a593c064dccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefbc927a8d65d24c840e8744838b4fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c703a431b385f349b617bdc76f449ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b27ef04a887a884d91a1334468c32bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 750
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc73bb6152e4c74190ac127132feba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 747
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5274a8650aa814b91e1a2dba5ac899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 747
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6d34e0911cf444b05fa73f4c03c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62deefa1df152b34885daa1cce4adac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d73386e8ef834089eff82d5ce9c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ce544415ed5f84b92c3ecd26daffae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf71b77ee7c10a84eb4c109eca9a60ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 703
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc10a0cc2b37e6438543cbb8e416406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178445ed5fd8af04887f504947ace64e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 702
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f832571441db469279319d56de5e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 712
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc468af07c9df4c44ae3046d6d981384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_55
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 701
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5e6cbfca4ada4b9b6e39531451a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 712
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38062efe025a7d04eabff22b743501bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 701
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0231f51f84f57f0448e7b43d47770e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10cff0c0da4d784788df46dcff14827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742dc6a9535d5e46ad97bbdd9d233bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5348a538e642d4e9ceabb52bfeda22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_61
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 703
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d387214dc214ff647876889a9d60203e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 699
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e981e3d992fab744daefb9899a678a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 699
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce3db895313ed43ae1655d7a87fcc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22678e9ad7ab14ab82950b42130554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ce9093a5401e40abf2a066c94a829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14348818bab92b4a8c4ef662aea6edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd5b1ac88768444b3110ec93eebfc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_68
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 657
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d14f643c3eea47a0496ab67ee9527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_69
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8cd51ebc87fa645b730e8e002926f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1265c9a44c39a2409e55119714052e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 664
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4633b410ae3b3a2449e250ab95ad52a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_72
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 654
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da844573ea45420448dd011834e12997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_73
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 654
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c327f5b472a424faed2ca1ce2ac6bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_74
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e210670b08698e448afb0dcb4b6d3a86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_75
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748b20766111b744a69ddc7d758c6b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e5343252db2142ac4f6c908a8f76b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_77
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 657
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f691754de5b4b0e418887687b528b8ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_78
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 662
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97149ed7e66046488d6244614ef5f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_79
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 662
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fa52c95d820ae49994eef0fa49d56f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_80
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 654
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01fa7e6dc24c44797e5eed12e186b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d10c8f62a10f5844a227a47816729b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d946dccfa7bd40a9eb5972a06b55c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2307018fd004744911c8f8158aab1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc3bfcef3fb91c488f39c828464d179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef9a6ce069834499a1b48fa10061cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_86
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 610
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8bf6daaa7dca469c36caa30a12496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bfb46b6d786bc4eb8e0298858a1f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_89
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 611
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b969d3f57d9253448417f12887d2bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_90
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 607
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5de1ae432e19d48934f129a8db9670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_91
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 622
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab3d98045ffd44daf5d3a639c55c05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_92
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 611
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c412ec9aacc9489a89bd4778ade88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 611
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e60225f6908d2428f7b0f288c2df7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_94
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 607
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bcc19f9b87f144a9b4e9fc37f4ba77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_95
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 607
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0dcfba7a47ec74a84181b60591a602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_96
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a9e5a4580f9fd43b48018b65b2265c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_97
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8327845dae35847ac9b2d782c0d572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_98
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23340f00dbf1031499e47844573cbbc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_99
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 610
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ffaef9c4f0ef548a23874b9413c608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_100
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 610
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcda29e53b53ed409040ce2626344ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_101
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 610
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88d0e389c7c3fc4ea8087b3fee72e05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88136f41289947b4cba23c92cf2910ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac9697680719af438d7d289d83f19e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_104
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0086f0bb522db5438cc5d880bc92048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_105
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a76a7bb1da1f246a8642e417913a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 563
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218131ccf45ea8e4aa7b62c058c9a789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_107
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b463078af6399a0408737b11a1d7c3d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_108
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06afffcc2c8be540a13572f51cd3890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_110
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 558
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bbe6e2e597fd54ca846ffea1afd052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_111
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 572
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588de170cb72fd468e46aa754958d1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_112
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 560
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9677268b68dfc014bb9900ea0be74565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_113
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 562
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27639b2c287eb6e4b839d6cf1d697fe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_114
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858dc192ee7fa2540853da78f89a81b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_115
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3315c486e3a15d24fa26861b22bdf098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_116
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd82ab9d2960ea4e86b8072117de53a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_117
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 563
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6dd932d7fbb124182bb8b8d68d0c5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 560
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f486cf935633489e0ca99010af134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_119
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 560
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb74000f0293ee54286fe8fe10f90956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c149352e4494841bdc301f6aa15c1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a885eaccbe0314b9a235f454da6274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f62392cbd1bef43838fff28b119914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_123
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdd490f52e9fde4f8e42ab8a7515d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_124
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 516
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785aa1d14896f9541b032e98331cd648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_125
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e176d0174c4d8534c9650d36170cd3cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_126
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c5402ed2d2804093b6a885ec99a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9908eb4e24c5ac843a2074c2d9dba211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_129
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 513
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaad31b617762240be068a375d5693e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_130
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09232ac4be3ffcb4099d888e992854ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_131
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4424cc5bd0abc2243a2231f2277b3684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_132
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af220f926807340b8df6d577e75031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_133
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec722dafacc480f4d955b43d4397bcd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_134
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6e7bc5e35e7043a929c88434d46dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_135
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 513
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acebb876383cfa44927b0b6938f44a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_136
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 513
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1060eee6e5c224e9e5747226386548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 511
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a953f786cf8429a45be14c230e1829dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 521
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57ab8bb600f6c24e95a58a883775eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_139
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 471
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb2be28ea23754e91e2b51dd0cd48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_141
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 481
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a45f2a71f0ef6418902b5aecb970e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_142
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 466
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc96a19db1bc0224185ee7d7f2a79b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_143
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 469
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc99170dbe77c44097051224ad285c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_144
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 466
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d0ad7e24021b4ba53dc40a9ea148f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_145
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 466
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a42f40a56e82d42b172d5f152129bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_146
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 467
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e5d97b7c16ab49bf3837e871b87dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 422
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e38e7f5670d1d041b86a5001ab27803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_148
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 423
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c5fce1e28c474ca6406e258ccb5de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_149
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc03799003466d458243a0210ce5d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_150
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 421
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5214ef6f1c0e145b3cc082465b4bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_151
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 422
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f484515f20e8d4ca1bce394bd59198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_152
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 422
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e20d45d776d749847fd0b08956709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_153
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 417
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bc5170df7176f4b858797c22eeda5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_154
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 417
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac75426638ae543be7a006fa61e929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_155
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 375
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ffa032ab8403e458f366fbd2c65538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_156
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d79f2e11a089849aa44f151c1f4c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_157
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b859760642c7e4081b65be7209f710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8566fd98b9d5a479b15918c99c276d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_159
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 374
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2c585872ff3d449b3f78f42c3f206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_160
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 375
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eec0d5f07c98f4cb16d3a608822e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_161
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 370
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d039436aca00843bd8310bbc475d07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_162
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 370
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549d99223e3079641a8d01d0e9d8cb48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_163
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea892781b205cc4ebb6436c0607b333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_164
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 372
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f5dc5a7963f5428f07b35f9e5e39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69274022359a8944e8fc0276d8d932cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 328
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89825f456d4634845a1ef71f59d3f25c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_167
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 328
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013bf4db34fb1b54499ca60e39447e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_168
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 328
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf3cc19f3a5de489ae0fa628fb3091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_169
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 326
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d41e376029d3944a23f4aeea3f2e31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_170
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 323
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f90c35f3930bd4abbca36dbc93c48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_171
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 323
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1801cf33f162e3d409ce400086fd97e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_172
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50553d811ba82cd449cdf4656ae0bbe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_173
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 282
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8520a447a6a673f43a94d1165ff64eca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_174
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 299
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a9ae1db56d594388627a8ae7163d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f512cf99dbf643a417d0db4a1b604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_176
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a280f03e82b75534c92a63f2fe7aa0af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_177
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88534fc9c31c024c872c62b93302bc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_178
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57efb20a627c15246a7825b9a48507c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_179
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 299
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1c68446612a4a45bf4ec29a3129b04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_180
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 299
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102594c04038b074da55c862d066658f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_181
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 299
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b16325a5d1166409c329c872ba08d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_182
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 291
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a0ddac85c8354dab19310ba412a65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_183
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 294
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42162578b3a4f00458cf98781882caa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_184
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 291
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ea2b067cd69a45b1b644c7e81db2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_185
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 293
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116396b2b3ad83f4abc184d2d5db60b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_186
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 287
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28f246f3cd40f4e96edf4a68397dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_187
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 270
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a6bcd93b9f4248a8e06a8f08c3cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_188
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 270
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16d8e0e5e785c4459ee535d9711b763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_189
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 270
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6c79078f2fc843be179fe50349025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_190
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 270
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88cad52a288d94184bb6f3cb3be6dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_191
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 270
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879a47d32fc36d4396f066bafda966b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_192
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 270
+        width: 77
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e2fdf4babf8e48b138473fca8cfac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_193
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0558391d0b2884c85f007b0db12efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_194
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 235
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11d4b0368b93ff45abbcccb1df400f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_195
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 245
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028a6f92f017394a9363f2d5e008fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_196
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4d8521fc31f54ca491ea4d7d0358e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_197
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40edf38a3a70744fbf2fef59d2e65a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_198
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 197
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21067620febdb14596ce1590367d7c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a3abd996354145987ee87381b2e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_200
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 141
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5e4c6006578843975834abf02ade7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_201
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 158
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89141ede3babc764bab495c24f14e453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_202
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5bcba1adb7374fa5d1da00a8b8893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 94
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e22682f1ec77d4babf2273e10f3ee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_204
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 111
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd161a8857514b947a2cdeb54a2c3270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e331993fd3c5841965a0f434f0c711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c057f8507aadd4b81340303b65cb72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_207
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7e1b4b51bf5a4abbf2cf2162e311b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac-man-sprites_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c75d26ec6c0f74eb008561c07f144d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0bb0f237a7db49749ab94533ce4385df
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

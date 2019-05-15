@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Ghost.cs" />
      <Compile Include="Assets\Scripts\PacMan_Movement.cs" />
      <Compile Include="Assets\Scripts\Portal.cs" />
      <Compile Include="Assets\Scripts\ScoreKeeping.cs" />
