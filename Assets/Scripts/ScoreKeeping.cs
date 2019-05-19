@@ -8,6 +8,7 @@ public class ScoreKeeping : MonoBehaviour
 {
     [HideInInspector] public int totalDots, totalPowerDots, score = 0;
     
+
     public Text displayedScore;
     
     void Start()
@@ -45,24 +46,26 @@ public class ScoreKeeping : MonoBehaviour
         displayedScore.text = "Score: " + score;
     }
 
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Dot"))
-        {
-            Destroy(other.gameObject);
-            totalDots--;
-            addPoints(other);
-            //PlayEating noise            
-        }
+    //void OnTriggerEnter2D(Collider2D other)
+    //{
+    //    if (other.gameObject.CompareTag("Dot"))
+    //    {
+    //        Destroy(other.gameObject);
+    //        totalDots--;
+    //        addPoints(other);
+    //        //PlayEating noise            
+    //    }
 
-        if (other.gameObject.CompareTag("PowerDot"))
-        {
-            Destroy(other.gameObject);
-            totalPowerDots--;
-            addPoints(other);
-            //PowerUpPacMan
-            //Playeating noise
-            //Play PowerUp Noise         
-        }
-    }
+    //    if (other.gameObject.CompareTag("PowerDot"))
+    //    {
+    //        Destroy(other.gameObject);
+    //        totalPowerDots--;
+    //        addPoints(other);
+
+           
+    //        //PowerUpPacMan
+    //        //Playeating noise
+    //        //Play PowerUp Noise         
+    //    }
+    //}
 }

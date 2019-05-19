@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Dot
   - PowerDot
+  - MovementNode
+  - Ghost
   layers:
   - Default
   - TransparentFX
