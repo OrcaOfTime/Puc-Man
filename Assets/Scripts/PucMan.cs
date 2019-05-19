@@ -8,6 +8,15 @@ public class PucMan : MonoBehaviour
     private const float xOffset = 13.5f;
     private const float yOffset = 11.5f;
     private Vector2 nextDirection;
+    private MovementNode startPosition;
+    private bool playedChomp1;
+
+    public bool allowMovement = true;
+    public RuntimeAnimatorController deathAnimation;
+    public RuntimeAnimatorController pucManChomp;
+    public AudioClip chomp1, chomp2;
+    private AudioSource audio;
+    
 
     private MovementNode currentNode, previousNode, targetNode;
 
@@ -22,25 +31,67 @@ public class PucMan : MonoBehaviour
     
     void Start()
     {
+        audio = transform.GetComponent<AudioSource>();
         MovementNode node = getNode(transform.localPosition);
-        
+        startPosition = node;
+
         if (node != null)
         {
             currentNode = node;
         }
 
-        // currentDirection = Vector2.left;
+        currentDirection = Vector2.left;
         orientation = Vector2.left;
+
+        changePosition(currentDirection);
     }
 
-    
+    void PlayChompAudio()
+    {
+        if (playedChomp1)
+        {
+            audio.PlayOneShot(chomp2);
+            playedChomp1 = false;
+        }
+        else
+        {
+            audio.PlayOneShot(chomp1);
+            playedChomp1 = true;
+        }
+
+    }
+
+    public void restart()
+    {
+
+        allowMovement = true;
+
+        transform.GetComponent<Animator>().runtimeAnimatorController = pucManChomp;
+        transform.GetComponent<Animator>().enabled = true;
+
+        transform.GetComponent<SpriteRenderer>().enabled = true;
+
+        transform.position = startPosition.transform.position;
+
+        currentNode = startPosition;
+        currentDirection = Vector2.left;
+        orientation = Vector2.left;
+        nextDirection = Vector2.left;
+
+        changePosition(currentDirection);
+    }
+
     void Update()
     {
-        checkDirection();
-        Move();
-        Rotate();
-        isIdle();
-        consumeDot();
+        if (allowMovement)
+        {
+            checkDirection();
+            Move();
+            Rotate();
+            isIdle();
+            consumeDot();
+        }
+        
     }
 
     void isIdle() //Stops movement animation when Pucman stops moving
@@ -273,16 +324,24 @@ public class PucMan : MonoBehaviour
             {
                 if(!s.isConsumed && (s.isDot || s.isPowerDot))
                 {
-                    Debug.Log("Dot Eaten at pos: " + s.transform.position);
                     s.GetComponent<SpriteRenderer>().enabled = false;
                     s.isConsumed = true;
+                    PlayChompAudio();
 
+                    if (s.isDot)
+                    {
+                        GameObject.Find("Game Storage").GetComponent<GameStorage>().totalDots--;
+                        GameObject.Find("Game Storage").GetComponent<GameStorage>().score +=10;
+                    }
                     if (s.isPowerDot)
                     {
                         GameObject[] ghosts = GameObject.FindGameObjectsWithTag("Ghost");
 
                         foreach (GameObject g in ghosts)
                             g.GetComponent<Ghost>().FrightenedMode();
+
+                        GameObject.Find("Game Storage").GetComponent<GameStorage>().totalPowerDots--;
+                        GameObject.Find("Game Storage").GetComponent<GameStorage>().score+=20;
                     }
                 }
             }

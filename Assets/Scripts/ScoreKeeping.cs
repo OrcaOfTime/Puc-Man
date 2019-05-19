@@ -36,16 +36,6 @@ public class ScoreKeeping : MonoBehaviour
         throw new NotImplementedException();
     }
 
-    void addPoints(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Dot"))
-            score += 10;
-        else if (other.gameObject.CompareTag("PowerDot"))
-            score += 20;
-
-        displayedScore.text = "Score: " + score;
-    }
-
     //void OnTriggerEnter2D(Collider2D other)
     //{
     //    if (other.gameObject.CompareTag("Dot"))

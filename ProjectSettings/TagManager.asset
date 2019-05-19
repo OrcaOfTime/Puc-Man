@@ -8,6 +8,7 @@ TagManager:
   - PowerDot
   - MovementNode
   - Ghost
+  - UI Element
   layers:
   - Default
   - TransparentFX

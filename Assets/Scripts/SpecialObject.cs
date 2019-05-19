@@ -11,5 +11,7 @@ public class SpecialObject : MonoBehaviour
     public bool isDot;
     public bool isPowerDot;
     public bool isConsumed;
+    public bool isGhostHouseEntrance;
+    public bool isGhostHouse;
 
 }
