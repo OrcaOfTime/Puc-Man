@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PucMan : MonoBehaviour
 {
@@ -25,9 +26,6 @@ public class PucMan : MonoBehaviour
     public Sprite idleSprite;
     
     public Vector2 currentDirection = Vector2.zero;
-    
-
-    //private PlayerDeath 
     
     void Start()
     {
@@ -331,7 +329,7 @@ public class PucMan : MonoBehaviour
                     if (s.isDot)
                     {
                         GameObject.Find("Game Storage").GetComponent<GameStorage>().totalDots--;
-                        GameObject.Find("Game Storage").GetComponent<GameStorage>().score +=10;
+                        GameObject.Find("Game Storage").GetComponent<GameStorage>().Score +=10;
                     }
                     if (s.isPowerDot)
                     {
@@ -340,8 +338,8 @@ public class PucMan : MonoBehaviour
                         foreach (GameObject g in ghosts)
                             g.GetComponent<Ghost>().FrightenedMode();
 
-                        GameObject.Find("Game Storage").GetComponent<GameStorage>().totalPowerDots--;
-                        GameObject.Find("Game Storage").GetComponent<GameStorage>().score+=20;
+                        GameObject.Find("Game Storage").GetComponent<GameStorage>().totalDots--;
+                        GameObject.Find("Game Storage").GetComponent<GameStorage>().Score+=20;
                     }
                 }
             }

@@ -2,10 +2,27 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameStorage : MonoBehaviour
 {
-    [HideInInspector] public int totalDots, totalPowerDots, score = 0;
+    [HideInInspector] public int totalDots, totalPowerDots;
+        
+    private int score = 0;
+    public  int Score 
+    {
+        get 
+        {
+            return score;
+        }
+        set 
+        {
+            score = value;
+            Debug.Log("Score: " + score);
+            displayedScore.text = "Score: " + score;
+        }
+    }
+
 
 
     public Text displayedScore;
@@ -15,8 +32,6 @@ public class GameStorage : MonoBehaviour
     public Image playerLives2;
     public Image playerLives3;
 
-
-    public int pucManLives = 3;
     private static int boardWidth = 31;
     private static int boardHeight = 33;
 
@@ -65,7 +80,7 @@ public class GameStorage : MonoBehaviour
         }
 
         totalDots = GameObject.FindGameObjectsWithTag("Dot").Length;
-        totalPowerDots = GameObject.FindGameObjectsWithTag("PowerDot").Length;
+        totalDots += GameObject.FindGameObjectsWithTag("PowerDot").Length;
 
         startGame();
 
@@ -73,13 +88,14 @@ public class GameStorage : MonoBehaviour
 
     private void Update()
     {
-
-        checkLevelComplete();
+        Debug.Log(totalDots);
+        if (totalDots == 0)
+            checkLevelComplete();
     }
 
     public void startGame()
     {
-        displayedScore.GetComponent<Text>().text = "Score: " + score;
+        displayedScore.GetComponent<Text>().text = "Score: " + Score;
         displayedScore.GetComponent<Text>().enabled = true;
 
         GameObject[] g = GameObject.FindGameObjectsWithTag("Ghost");
@@ -172,19 +188,20 @@ public class GameStorage : MonoBehaviour
 
         transform.GetComponent<AudioSource>().clip = backgroundNormal;
         transform.GetComponent<AudioSource>().Play();
+        transform.GetComponent<AudioSource>().loop = true;
 
     }
 
     private void checkLevelComplete()
     {
-        if (totalDots == 0 && totalPowerDots == 0)
-            completeLevel();
+        if (totalDots == 0)
+            PlayerPrefs.SetString("GameFinish", "YOU WIN!");
+        else if (playerLives == 0)
+            PlayerPrefs.SetString("GameFinish", "Looks like you lost");
+
+        SceneManager.LoadScene("Game Over");
     }
 
-    private void completeLevel()
-    {
-        
-    }
 
     public void startDeath()
     {
@@ -256,8 +273,21 @@ public class GameStorage : MonoBehaviour
     public void restart()
     {
        
-        pucManLives--;
+        playerLives--;
 
+        switch (playerLives)
+        {
+            case 2:
+                playerLives3.enabled = false;
+                break;
+            case 1:
+                playerLives2.enabled = false;
+                break;
+            case 0:
+                checkLevelComplete();
+                break;
+        }
+           
         GameObject pucMan = GameObject.Find("Pucman");
         pucMan.GetComponent<PucMan>().restart();
 
@@ -268,6 +298,7 @@ public class GameStorage : MonoBehaviour
 
         transform.GetComponent<AudioSource>().clip = backgroundNormal;
         transform.GetComponent<AudioSource>().Play();
+        transform.GetComponent<AudioSource>().loop = true;
 
         deathStarted = false;
     }

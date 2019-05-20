@@ -13442,8 +13442,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.7145157, y: 0.8674896}
   m_AnchorMax: {x: 0.86832035, y: 0.910698}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
-  m_SizeDelta: {x: 3, y: -3}
+  m_AnchoredPosition: {x: 27.5, y: -32.6}
+  m_SizeDelta: {x: 55.1, y: 65.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &549640258
 MonoBehaviour:
@@ -13469,9 +13469,9 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: 9ba123f03c5253543a8bc4f4f9658dc2, type: 3}
     m_FontSize: 25
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
-    m_MaxSize: 40
+    m_MaxSize: 30
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -22197,7 +22197,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   totalDots: 0
   totalPowerDots: 0
-  score: 0
   displayedScore: {fileID: 549640258}
   OptamisticMessage: {fileID: 1912168730}
   PreperrationText: {fileID: 727565823}

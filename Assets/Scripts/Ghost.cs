@@ -655,7 +655,7 @@ public class Ghost : MonoBehaviour
 
     void Consumed()
     {
-        GameObject.Find("Game Storage").GetComponent<GameStorage>().score += 200;
+        GameObject.Find("Game Storage").GetComponent<GameStorage>().Score += 200;
 
         currentmode = ghostMode.consumed;
         previousMoveSpeed = moveSpeed;
