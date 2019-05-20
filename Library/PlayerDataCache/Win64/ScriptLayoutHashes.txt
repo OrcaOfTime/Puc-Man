@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/Asus/Documents/Unity/Puc-Man/Puc-Man.exe
+C:/Users/Asus/Documents/Unity/PucMan_Final/Puc-Man.exe
 SceneListBegin?
 Assets/Scenes/Start Menu.unity
 Assets/Scenes/Level_one.unity
@@ -139,6 +139,7 @@ e0ee4b3d4e27318934cc940a969d3d96 UnityEngine.Networking.dll:UnityEngine.Networki
 ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+3263edadf221ba58390ace6c794bee3a Assembly-CSharp.dll:.GameOver
 3f17e1cfe527f10d30949881d9af0722 Assembly-CSharp.dll:.MovementNode
 510fefd6a544e16a3ffefa557ddcba39 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
@@ -165,4 +166,3 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 099cff9153c8ae313469b40caa85f9e7 Assembly-CSharp.dll:.Ghost
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 1bcb19040be6105f7291572538f8d3b9 Assembly-CSharp.dll:.SpecialObject
-3263edadf221ba58390ace6c794bee3a Assembly-CSharp.dll:.GameOver
